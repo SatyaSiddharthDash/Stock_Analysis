@@ -1,4 +1,7 @@
-'*.csv'
-'*/*.csv'
-'.DS_STORE'
-
+*.csv
+*/*.csv
+.DS_STORE
+Mid_Cap/*
+Large_Cap/*
+Small_Cap/*
+*.txt
