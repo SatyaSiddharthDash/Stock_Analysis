@@ -6,3 +6,4 @@ Large_Cap/*
 Small_Cap/*
 *.txt
 .vscode
+.ipynb_checkpoints/*
